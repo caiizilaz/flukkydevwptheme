@@ -1,0 +1,28 @@
+{
+  "name": "cta",
+  "main": "dist/cta.min.js",
+  "author": "Kushagra Gour",
+  "ignore": [
+    "CONTRIBUTING.md",
+    "Gruntfile.js"
+  ],
+  "keywords": [
+    "animation",
+    "transition",
+    "ux",
+    "javascript",
+    "library"
+  ],
+  "homepage": "https://github.com/chinchang/cta.js",
+  "version": "0.3.2",
+  "_release": "0.3.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.2",
+    "commit": "e57ab1b1aefd15fe5ccb771ce3d4d08fde2e4bad"
+  },
+  "_source": "git://github.com/chinchang/cta.js.git",
+  "_target": "~0.3.2",
+  "_originalSource": "cta",
+  "_direct": true
+}
